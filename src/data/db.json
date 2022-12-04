@@ -1,0 +1,108 @@
+{
+  "profile": {
+    "name": "Elden Lord",
+    "at": "@EldenRing",
+    "img_src": "./src/images/profile/profile_12.png"
+  },
+
+  "highline": {
+    "description": [
+      "Your Stories",
+      "Your View",
+      "Your Emotion",
+      "Your Opinion",
+      "Your Feeling",
+      "Your love"
+    ]
+  }, 
+  "card": [
+    {
+      "profile": {
+        "src": "./src/images/profile/profile_2.png",
+        "name": "Lana Rose",
+        "position": "Adelaide",
+        "time": "15 MINUTES AGO"
+      },
+      "picture": {
+        "img_src": "./src/images/post/post_5.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "./src/images/profile/profile_5.png",
+          "./src/images/profile/profile_6.png",
+          "./src/images/profile/profile_7.png"
+        ],
+        "first_people_name": "Ernest Achiever",
+        "like_peoples_number": 1573,
+        "comment_info": "Lana Rose Lorem ipsum dolor sit quisquam eius. #lifestyle",
+        "view_number": 3473
+      }
+    },
+    {
+      "profile": {
+        "src": "./src/images/profile/profile_3.png",
+        "name": "Tom Hanks",
+        "position": "Perth",
+        "time": "10 MINUTES AGO"
+      },
+      "picture": {
+        "img_src": "./src/images/post/post_6.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "./src/images/profile/profile_5.png",
+          "./src/images/profile/profile_6.png",
+          "./src/images/profile/profile_7.png"
+        ],
+        "first_people_name": "Ernest Achiever",
+        "like_peoples_number": 2323,
+        "comment_info": "Lana Rose Lorem ipsum dolor sit quisquam eius. #lifestyle",
+        "view_number": 5471
+      }
+    },
+    {
+      "profile": {
+        "src": "./src/images/profile/profile_4.png",
+        "name": "Emily Li",
+        "position": "Sydney",
+        "time": "8 MINUTES AGO"
+      },
+      "picture": {
+        "img_src": "./src/images/post/post_7.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "./src/images/profile/profile_5.png",
+          "./src/images/profile/profile_6.png",
+          "./src/images/profile/profile_7.png"
+        ],
+        "first_people_name": "Ernest Achiever",
+        "like_peoples_number": 7894,
+        "comment_info": "Lana Rose Lorem ipsum dolor sit quisquam eius. #lifestyle",
+        "view_number": 6894
+      }
+    },
+    {
+      "profile": {
+        "src": "./src/images/profile/profile_5.png",
+        "name": "Emily Li",
+        "position": "Sydney",
+        "time": "8 MINUTES AGO"
+      },
+      "picture": {
+        "img_src": "./src/images/post/post_8.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "./src/images/profile/profile_5.png",
+          "./src/images/profile/profile_6.png",
+          "./src/images/profile/profile_7.png"
+        ],
+        "first_people_name": "Ernest Achiever",
+        "like_peoples_number": 7894,
+        "comment_info": "Lana Rose Lorem ipsum dolor sit quisquam eius. #lifestyle",
+        "view_number": 6894
+      }
+    }
+  ]
+}
